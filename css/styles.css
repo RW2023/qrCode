@@ -1,0 +1,19 @@
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+h2 {
+  font-weight: bolder;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.qr-code {
+  margin-top: 1em;
+}
