@@ -1,5 +1,9 @@
-body{
-    font-family: 'Source Code Pro', monospace;
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+h2 {
+  font-weight: bolder;
 }
 
 .attribution {
@@ -10,6 +14,6 @@ body{
   color: hsl(228, 45%, 44%);
 }
 
-.qr-code{
-    margin-top: 1em;
+.qr-code {
+  margin-top: 1em;
 }
