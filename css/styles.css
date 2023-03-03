@@ -47,6 +47,9 @@ main {
 }
 .attribution {
   background-color: #d6e1f0;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
