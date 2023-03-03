@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
 }
@@ -7,10 +8,10 @@ body {
   font-family: "Outfit", sans-serif;
   background-color: #d6e1f0;
   width: 700px;
-  margin: auto
+  margin: auto;
 }
 
-p{
+p {
   text-align: center;
 }
 
@@ -21,17 +22,19 @@ h2 {
 img {
   padding: 15px;
   border-radius: 2.5rem;
-  margin: auto;
+  width: 50%;
+  max-width: 500px;
+  margin-right: 50px;
 }
 
-.image{
+.image {
   background-color: white;
   margin: auto;
 }
 
 main {
- background-color: white;
- margin: auto;
+  background-color: white;
+  margin: auto;
   border-radius: 1.25rem;
   margin: 0 20px 0 30px;
   display: flex;
@@ -40,11 +43,11 @@ main {
   margin-top: 5rem;
 }
 .attribution {
-background-color: #d6e1f0;
+  background-color: #d6e1f0;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
-    margin: 0 20px 0 30px;
+  margin: 0 20px 0 30px;
   text-align: center;
 }
 
