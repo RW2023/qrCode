@@ -37,6 +37,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
+  margin-top: 5rem;
 }
 .attribution {
 background-color: #d6e1f0;
