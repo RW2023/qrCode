@@ -48,6 +48,7 @@ img {
   display: flex;
   flex-direction: row;
   align-content: center;
+  flex-wrap: wrap;
 }
 
 .attribution a {
@@ -67,18 +68,16 @@ img {
   /* CSS styles here */
   .card {
     margin: auto;
-    border-radius: 1.25rem;
-    margin: 0 20px 0 30px;
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-    margin-top: 5rem;
-    max-width: 375px;
-    margin-right: 50px;
-    width: 300px;
-    height: 460px;
-    padding: 1rem;
-    background: var(--white);
+      border-radius: 1.25rem;
+      display: flex;
+      flex-wrap: wrap;
+      text-align: center;
+      margin-top: 5rem;
+      max-width: 375px;
+      width: 100%;
+      height: 460px;
+      padding: 1rem;
+      background: var(--Lightgray);
   }
 }
 
@@ -87,18 +86,22 @@ img {
 
   /* CSS styles here */
   .card {
-    margin: auto;
-    border-radius: 1.25rem;
-    margin: 0 20px 0 30px;
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-    margin-top: 5rem;
-    max-width: 1440px;
-    margin-right: 50px;
-    width: 300px;
-    height: 460px;
-    padding: 1rem;
-    background: var(--white);
+      margin: auto;
+        border-radius: 1.25rem;
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        margin-top: 5rem;
+        max-width: 1440px;
+        width: 100%;
+        height: 460px;
+        padding: 1rem;
+        background-color: var(--Lightgray);
   }
+}
+
+.backdrop {
+  border: 1px black;
+  border-radius: 1rem;
+  background-color: var(--white);
 }
