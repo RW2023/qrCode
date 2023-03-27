@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8ed6936-d56e-4bc9-97af-91db117d8756/deploy-status)](https://app.netlify.com/sites/rw2023qrcode/deploys)
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
