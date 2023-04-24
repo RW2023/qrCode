@@ -37,8 +37,8 @@ body {
 
 .card {
   background-color:var(--white-color);
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-  border-radius: 0.625rem;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.71);
+  border-radius: 1.625rem;
   max-width: 17rem;
   padding: 1rem;
   margin-bottom: 1rem;
@@ -49,6 +49,8 @@ img {
   border-radius: 0.625rem;
   max-height: 18rem;
   max-width: 18rem;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.71);
+  border: 1px solid #000000;
 }
 
 h1 {
