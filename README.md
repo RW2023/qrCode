@@ -28,8 +28,8 @@ This is my submission to the Front End Mentor Coding Challenge
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://rw2023qrcode.netlify.app/)
-- Live Site URL: [Add live site URL here](https://rw2023qrcode.netlify.app/)
+- Solution URL: [Live Site](https://rw2023qrcode.netlify.app/)
+
 
 ## My process
 Was very long and involved learning as I went. In the end the discovery of figma and becoming proficient in it's use was a big factor in the end result. 
