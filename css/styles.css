@@ -97,12 +97,11 @@ body {
     }
   
     img {
-      padding: 15px;
-      border-radius: 2.5rem;
-      width: 100%;
-      max-width: 375px;
-      margin: auto;
-      align-items: center;
+    position: absolute;
+      width: 247px;
+      height: 228px;
+      left: 71px;
+      top: 71px;
     }
   
     .image {
