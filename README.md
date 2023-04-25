@@ -22,7 +22,7 @@ This is my submission to the Front End Mentor Coding Challenge
 
 ### Screenshot
 
-![](./images/Frontend-Mentor-QR-code-component.png)
+![](./images/SS.png)
 
 
 
